@@ -1,0 +1,4 @@
+User_id,Order_number,Total amount,Status,First name,Last name,Phone number,Address
+1,1,91.92,Paid,2,3,45,554
+1,2,131.91,Paid,leo,xie,1232132,123123
+1,3,102.88,unpaid

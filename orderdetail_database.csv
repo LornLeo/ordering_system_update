@@ -1,0 +1,7 @@
+User_ID,Order_number,Name,Quantity,Unit_Price
+1,1,Grilled salmon fish,4,$12.99 
+1,1,Fluffy Pancake Stack,4,$9.99 
+1,2,Grilled salmon fish,4,$12.99 
+1,2,Juicy Sirloin Steak,5,$15.99 
+1,3,Ham cheese pizza,5,$7.99 
+1,3,Chicken pizza,7,$8.99 

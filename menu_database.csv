@@ -1,0 +1,30 @@
+Image_path,Name,Price,Description,Category
+salmon-fish.jpg,Grilled salmon fish,$12.99 ,"Tender, flavorful salmon fillet, grilled to perfection with secret herbs and spices.",Special
+pancake.jpg,Fluffy Pancake Stack,$9.99 ,"Indulgent pancakes, caramelized edges, topped with syrup, cream, and seasonal fruits.",Special
+steak.jpg,Juicy Sirloin Steak,$15.99 ,"Prime beef, seared crust, juicy tenderness, served with roasted vegetables and savory sauces.",Special
+classic-beef-burger.jpg,Classic Beef Burger,$12.99 ,"Beef patty, cheese, sesame seed bun, lettuce, tomato, onions, pickles, ketchup, mustard, and mayo.",Burgers and Sandwiches
+chicken-burger.jpg,Chicken burger,$13.99 ,"Grilled chicken breast, sesame seed bun, lettuce, tomato, onions, pickles, and choice of sauces.",Burgers and Sandwiches
+fish-sandwich.jpg,Fish sandwich,$10.99 ,"Crispy fish fillet, soft bun, lettuce, tomato, tartar sauce.",Burgers and Sandwiches
+pork-roll.jpg,Pork roll,$11.99 ,Sliced and seasoned pork roll.,Burgers and Sandwiches
+terriyaki-chicken.jpg,Teriyaki chicken,$8.99 ,"Chicken breast, teriyaki sauce (made with soy sauce, mirin, sugar, ginger, and garlic), and optional sesame seeds.",Asian Cuisine
+beef-broccoli.webp,Beef broccoli ,$6.99 ,"Beef strips, broccoli florets, soy sauce, garlic, ginger, and optional oyster sauce.",Asian Cuisine
+tempura-sushi-roll.jpg,Tempura sushi roll ,$7.99 ,"Sushi rice, nori (seaweed sheet), tempura-fried ingredients, soy sauce, and optional wasabi and pickled ginger.",Asian Cuisine
+spring-roll.webp,Spring roll,$13.99 ,"Rice paper wrappers, vermicelli noodles, vegetables (e.g., carrots, cabbage, bean sprouts), and optional protein (e.g., shrimp, chicken, tofu), served with dipping sauce.",Asian Cuisine
+pad-thai.jpg,Pad thai,$14.99 ,"Rice noodles, tofu or choice of protein, eggs, bean sprouts, green onions, peanuts, tamarind sauce.",Asian Cuisine
+vegan-pizza.jpg,Vegan pizza,$12.99 ,"Vegan pizza dough, tomato sauce, vegan cheese, and assorted plant-based toppings.",Pizza
+ham-cheese-pizza.jpg,Ham cheese pizza,$7.99 ,"Pizza dough, tomato sauce, mozzarella cheese, ham slices.",Pizza
+chicken-pizza.jpg,Chicken pizza,$8.99 ,"Pizza dough, tomato sauce, mozzarella cheese, grilled chicken, and choice of additional toppings.",Pizza
+pepperoni-pizza.jpg,Pepperoni pizza,$9.99 ,"Pizza dough, tomato sauce, mozzarella cheese, pepperoni slices.",Pizza
+crispy-fried-chicken.jpg,Crispy fired chicken,$10.99 ,"Chicken pieces, seasoned flour or batter, oil for frying.",Fried Foods
+onion-rings.jpg,Onion rings,$11.99 ,"Sliced onions, batter (made from flour, egg, milk, and seasoning), oil for frying.",Fried Foods
+chicken-wings.jpg,Chicken wings,$13.99 ,"Chicken wings, choice of seasoning or sauce (e.g., buffalo, BBQ).",Fried Foods
+tempura-vegetables.jpg,Tempura vegetables,$13.99 ,"Assorted vegetables (e.g., sweet potatoes, zucchini, bell peppers) coated in tempura batter and fried.",Fried Foods
+caesar-salad.jpg,Caesar salad,$7.99 ,"Romaine lettuce, croutons, Parmesan cheese, Caesar dressing (made with anchovies, garlic, lemon juice, Dijon mustard, egg yolks, olive oil).",Salads and Wrap
+vegan-wrap.jpg,Vegan wrap,$8.99 ,"Wrap (e.g., tortilla), choice of vegan protein (e.g., tofu, chickpeas, tempeh), assorted vegetables, and vegan sauce or dressing.",Salads and Wrap
+coke.jpg,Coke,$9.99 ,"Carbonated water, high fructose corn syrup, caramel color, phosphoric acid, natural flavors, caffeine.",Drinks
+iced-tea.jpg,Iced-tea,$5.99 ,"Black tea or green tea, water, sugar or sweetener, lemon (optional).",Drinks
+lemonade.jpg,Lemonade,$6.99 ,"Freshly squeezed lemons, water, sugar or sweetener.",Drinks
+coffee.jpg,Coffee,$5.99 ,"Coffee beans, hot water.",Drinks
+pappardelle-pasta.jpg,Pappardelee pasta,$13.99 ,"Wide and flat ribbons of egg-based pasta, made with flour and eggs.",Pasta
+linguine-pasta.jpg,Linguine pasta,$12.99 ,"Long, thin, and flat pasta similar to spaghetti, made with durum wheat semolina.",Pasta
+farfalle-pasta.jpg,fafalle pasta,$11.99 ,Bowtie-shaped pasta made with durum wheat semolina and water.,Pasta
